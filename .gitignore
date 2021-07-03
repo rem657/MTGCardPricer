@@ -5550,3 +5550,5 @@ venv/Scripts/pythonw.exe
 .idea/MTGCardPricer.iml
 .idea/vcs.xml
 test.txt
+__pycache__/Card.cpython-39.pyc
+test.csv
